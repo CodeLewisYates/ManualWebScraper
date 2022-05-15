@@ -1,0 +1,15 @@
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\bin\Debug\net6.0\WebScraper.Application.deps.json
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\bin\Debug\net6.0\WebScraper.Application.dll
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\bin\Debug\net6.0\WebScraper.Application.pdb
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\bin\Debug\net6.0\WebScraper.Data.dll
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\bin\Debug\net6.0\WebScraper.Data.pdb
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\WebScraper.Application.csproj.AssemblyReference.cache
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\WebScraper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\WebScraper.Application.AssemblyInfoInputs.cache
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\WebScraper.Application.AssemblyInfo.cs
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\WebScraper.Application.csproj.CoreCompileInputs.cache
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\WebScraper.Application.csproj.CopyComplete
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\WebScraper.Application.dll
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\refint\WebScraper.Application.dll
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\WebScraper.Application.pdb
+C:\Users\lewis\OneDrive\Documents\WebScraper\WebScraper.Application\obj\Debug\net6.0\ref\WebScraper.Application.dll
